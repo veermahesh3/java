@@ -1,4 +1,4 @@
-# java
+# Java Servlet Web Application
 My Java Project 
 
 
